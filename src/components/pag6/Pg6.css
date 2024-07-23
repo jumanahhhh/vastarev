@@ -51,7 +51,6 @@
 
 }
 
-
 .page6-content #d-bttn i{
     font-size: 1.2vw;
     font-weight: 150;
@@ -61,8 +60,8 @@
 #page6-bottom{
     height: 44vh;
     width: 100%;
-    border-top: 1px solid #dadada;
-    background-color: red;
+    border-top: 2px solid #dadada;
+    /* background-color: red; */
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -72,31 +71,31 @@
     border-right: 1px solid #dadada;
     width: 30%;
     height: 100%;    
-    background-color: gray;
+    /* background-color: gray; */
 }
 
 #btm6-part2{
     border-right: 1px solid #dadada;
     width: 28%;
     height: 100%;    
-    background-color: gray;
+    /* background-color: gray; */
 }
 #btm6-part3{
     border-right: 1px solid #dadada;
-    width: 15%;
+    width: 18%;
     height: 100%;    
-    background-color: gray;
+    /* background-color: gray; */
 }
 #btm6-part4{
     border-right: 1px solid #dadada;
-    width: 15%;
+    width: 18%;
     height: 100%;    
-    background-color: gray;
+    /* background-color: gray; */
 }
 #btm6-part5{
-    width: 28%;
+    width: 10%;
     height: 100%;    
-    background-color: gray;
+    /* background-color: gray; */
 }
 .btm6-parts{
     padding: 3vh 0.5vw;
@@ -131,4 +130,23 @@
     padding: 0.5vw;
     border-radius: 50%;
     margin-right: 0.8vw;
+}
+
+.btm6-parts h4:nth-child(2){
+    transform: translateX(0);
+}
+.btm6-parts h4:nth-child(3){
+    transform: translateX(10%);
+}
+.btm6-parts h4:nth-child(4){
+    transform: translateX(20%);
+}
+.btm6-parts h4:nth-child(5){
+    transform: translateX(30%);
+}
+.btm6-parts h4:nth-child(6){
+    transform: translateX(40%);
+}
+.btm6-parts h4:nth-child(7){
+    transform: translateX(50%);
 }
