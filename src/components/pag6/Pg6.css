@@ -1,0 +1,134 @@
+.page6 {
+  min-height: 100vh;
+  width: 100%;
+  background-color: #fff;
+  padding: 5vh 10vw;
+}
+.page6 > h1 {
+    font-size: 5vw;
+    font-weight: 700;
+    /* background-color: red; */
+    padding-left: 24vw;
+    padding-right: 15vw;
+    line-height: 5.2vw;
+    color: black;
+    padding-bottom: 10vh;
+    border-bottom: 1px solid #898989;
+}
+.page6-content{
+    /* background-color: red; */
+    margin-top: 10vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.page6-content .right{
+    width: 69%;
+}
+.page6-content .right p{
+    font-size: 1.5vw;
+    color: black;
+    margin-bottom: 5vh;
+    width: 70%;
+}
+
+#d-bttn{
+    background-color: green;
+    width: 17vw;
+    height: 3.2vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+
+}
+.page6-content #d-bttn h4{
+    position: absolute;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1vw;
+
+}
+
+
+.page6-content #d-bttn i{
+    font-size: 1.2vw;
+    font-weight: 150;
+    margin-left: 0.5vw;
+}
+
+#page6-bottom{
+    height: 44vh;
+    width: 100%;
+    border-top: 1px solid #dadada;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#btm6-part1{
+    border-right: 1px solid #dadada;
+    width: 30%;
+    height: 100%;    
+    background-color: gray;
+}
+
+#btm6-part2{
+    border-right: 1px solid #dadada;
+    width: 28%;
+    height: 100%;    
+    background-color: gray;
+}
+#btm6-part3{
+    border-right: 1px solid #dadada;
+    width: 15%;
+    height: 100%;    
+    background-color: gray;
+}
+#btm6-part4{
+    border-right: 1px solid #dadada;
+    width: 15%;
+    height: 100%;    
+    background-color: gray;
+}
+#btm6-part5{
+    width: 28%;
+    height: 100%;    
+    background-color: gray;
+}
+.btm6-parts{
+    padding: 3vh 0.5vw;
+}
+.btm6-parts h5{
+    color: black;
+    font-weight: 400;
+    font-size: 1vw;
+    margin-bottom: 4vh;
+}
+
+.btm6-parts h4{
+    background-color: #111;
+    /* width: fit-content; */
+    display: flex;
+    align-items: center;
+    width: 75%;
+    padding: 5px 10px;
+    border-radius: 50px;
+    font-size: 0.9vw;
+    font-weight: 500;
+    margin-bottom: 0.3vh;
+
+}
+.btm6-parts h4 span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2vw;
+    height: 2vw;
+    background-color: #333;
+    padding: 0.5vw;
+    border-radius: 50%;
+    margin-right: 0.8vw;
+}
