@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/vastarev/static/css/main.fbfa984a.css",
+    "main.js": "/vastarev/static/js/main.e8252dbf.js",
+    "static/js/453.8ab44547.chunk.js": "/vastarev/static/js/453.8ab44547.chunk.js",
+    "static/media/afro.png": "/vastarev/static/media/afro.fe88c78a280e5c6c2170.png",
+    "static/media/vid-img.png": "/vastarev/static/media/vid-img.57e4203a28b9ba43c347.png",
+    "static/media/rhea.png": "/vastarev/static/media/rhea.e7142fe57ebc7a32ad23.png",
+    "static/media/pic.png": "/vastarev/static/media/pic.4e87bda6e8c52bca772a.png",
+    "index.html": "/vastarev/index.html",
+    "main.fbfa984a.css.map": "/vastarev/static/css/main.fbfa984a.css.map",
+    "main.e8252dbf.js.map": "/vastarev/static/js/main.e8252dbf.js.map",
+    "453.8ab44547.chunk.js.map": "/vastarev/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbfa984a.css",
+    "static/js/main.e8252dbf.js"
+  ]
+}
